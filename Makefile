@@ -37,9 +37,9 @@ include $(DEVKITPRO)/libnx/switch_rules
 #   of a homebrew executable (.nro). This is intended to be used for sysmodules.
 #   NACP building is skipped as well.
 #---------------------------------------------------------------------------------
-TARGET		:=	lennytube
-APP_TITLE	:=	Lennytube
-APP_AUTHOR	:=	noirscape
+TARGET		:=	uiiverse
+APP_TITLE	:=	Uiiverse
+APP_AUTHOR	:=	Uiiverse
 APP_VERSION	:=	1.0
 BUILD		:=	build
 SOURCES		:=	source
