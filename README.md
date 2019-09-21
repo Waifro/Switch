@@ -8,10 +8,13 @@ Install dependencies:
 
 Debian / Ubuntu:
 `sudo apt install gcc make`
+
 Fedora / Red Hat:
 `sudo dnf install gcc make pacman`
+
 CentOS / Fedora / Red Hat:
 `sudo yum install gcc make pacman`
+
 Arch:
 `sudo pacman -Syu gcc make`
 
